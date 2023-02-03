@@ -8,3 +8,6 @@ Editado
 *italica*
 
 **negrita**
+
+[GuidaDeMarkdown](https://www.markdownguide.org/)
+
