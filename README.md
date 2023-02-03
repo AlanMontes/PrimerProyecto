@@ -7,7 +7,7 @@ Editado
 
 *italica*
 
-**negrita**
+**negritaaa**
 
 [GuidaDeMarkdown](https://www.markdownguide.org/)
 
